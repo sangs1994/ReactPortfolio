@@ -1,4 +1,5 @@
 {
+  "homepage": "https://sangs1994.github.io/ReactPortfolio",
   "name": "portfolio-web",
   "version": "0.1.0",
   "private": true,
@@ -6,7 +7,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@types/node": "20.5.1",
@@ -24,6 +27,7 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
-    "@next/eslint-plugin-next": "^13.4.19"
+    "@next/eslint-plugin-next": "^13.4.19",
+    "gh-pages": "^6.0.0"
   }
 }

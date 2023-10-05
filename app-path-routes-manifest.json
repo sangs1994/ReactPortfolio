@@ -1,5 +1,3 @@
 {
-  "/icon.ico/route": "/icon.ico",
-  "/page": "/",
-  "/icon.png/route": "/icon.png"
+  "/page": "/"
 }

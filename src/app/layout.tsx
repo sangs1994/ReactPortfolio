@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Portfolio Sangeetha",
   description: "This web contains all portfolios of Yuanda",
   icons: {
-    icon: "/icon.ico",
+    icon: "/icon_sangeetha.ico",
   },
 };
 

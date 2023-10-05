@@ -325,7 +325,7 @@ Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_
 
 /***/ }),
 
-/***/ 4802:
+/***/ 6743:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 1536))
@@ -567,7 +567,7 @@ const __default__ = proxy.default;
 
 const metadata = {
     title: "Portfolio Sangeetha",
-    description: "This web contains all portfolios of Yuanda",
+    description: "This web contains all portfolios of Sangeetha",
     icons: {
         icon: "/icon_sangeetha.ico"
     }

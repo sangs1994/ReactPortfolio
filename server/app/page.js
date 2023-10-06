@@ -333,14 +333,14 @@ const routeModule = new AppPageRouteModule({
 
 /***/ }),
 
-/***/ 9958:
+/***/ 9489:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 1232, 23));
-Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 831, 23));
-Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 2987, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 6926, 23));
+Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 2987, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 4282, 23));
+Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 831, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 6505, 23))
 
 /***/ }),
@@ -669,7 +669,7 @@ function AboutMe() {
             /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
             /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
             /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
-                href: "https://drive.google.com/file/d/13WTmpkWmUQNArKEMhihRfI5R1t2jwMCE/view?usp=sharing",
+                href: "https://drive.google.com/file/d/1blBJJaYpfz5hQiJ94oLY_IV55JKzaC_a/view?usp=sharing",
                 target: "blank",
                 children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
                     className: "flex gap-4 cursor-pointer",

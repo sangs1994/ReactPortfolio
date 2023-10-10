@@ -8,9 +8,8 @@ function MySkills() {
     "Node JS",
     "Express",
     "Next JS",
-    "Tailwind CSS",
     "REST API",
-    "Mysql"
+    "Mysql Queries"
   ];
 
   return (

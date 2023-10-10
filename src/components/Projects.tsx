@@ -15,6 +15,7 @@ const datas = [
       "Formik",
       "JWT",
       "Nodemailer",
+      "Core Java"
     ],
   },
   {

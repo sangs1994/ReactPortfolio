@@ -1,4 +1,4 @@
 {
-  "/page": "/",
-  "/icon.png/route": "/icon.png"
+  "/icon.png/route": "/icon.png",
+  "/page": "/"
 }

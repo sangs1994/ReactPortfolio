@@ -12,6 +12,8 @@ function MySkills() {
     "Mysql Queries"
   ];
 
+
+  
   return (
     <div className="flex gap-4 flex-wrap color-text-blue ">
       {datas.map((data, index) => (

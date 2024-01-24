@@ -2,6 +2,9 @@ function MySkills() {
   const datas = [
     "HTML",
     "CSS",
+    "Javascript",
+    "Typescript",
+    "Angular JS",
     "React JS",
     "Redux",
     "SASS",

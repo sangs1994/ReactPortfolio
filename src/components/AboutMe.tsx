@@ -4,7 +4,7 @@ function AboutMe() {
   return (
     <div className="mx-auto text-slate-400">
       <p>
-        Hi there! I'm Sangeetha Chandrasekar, a passionate and experienced
+        Hi there! I am Sangeetha Chandrasekar, a passionate and experienced
         Front-End Developer with over 7 years of expertise in creating stunning,
         intuitive, and highly responsive web applications that enhance the
         digital experience for millions of users.

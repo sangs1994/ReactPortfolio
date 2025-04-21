@@ -7,7 +7,7 @@ function FixedSidebar() {
     <div className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24">
       <div className="text-center lg:text-left">
         <Image
-          src="/sangeetha.png"
+          src="/Sangeetha.png"
           width={150}
           height={150}
           alt="sangeetha chandrasekar"
@@ -16,7 +16,9 @@ function FixedSidebar() {
         <p className="text-3xl md:text-5xl font-bold mb-1 lg:my-4">
           Sangeetha Chandrasekar
         </p>
-        <p className="text-lg text-slate-400 font-bold">Senior Software Engineer</p>
+        <p className="text-lg text-slate-400 font-bold">
+          Senior Software Engineer
+        </p>
       </div>
 
       <div className="hidden lg:block">
@@ -108,7 +110,10 @@ function FixedSidebar() {
         <Link href="https://github.com/sangs1994/" target="blank">
           <Image src="/icon-git.png" width={30} height={30} alt="github" />
         </Link>
-        <Link href="https://www.instagram.com/sangeetha__chandrasekar/" target="blank">
+        <Link
+          href="https://www.instagram.com/sangeetha__chandrasekar/"
+          target="blank"
+        >
           <Image src="/icon-ig.png" width={30} height={30} alt="instagram" />
         </Link>
       </div>

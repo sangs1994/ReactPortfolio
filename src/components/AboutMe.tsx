@@ -4,11 +4,19 @@ function AboutMe() {
   return (
     <div className="mx-auto text-slate-400">
       <p>
-      I am a Senior Software Engineer. I have skills how to build web application from scratch. I use Node js (express), React Js, Angular JS, MySQL, and other libraries.
+        Hi there! I'm Sangeetha Chandrasekar, a passionate and experienced
+        Front-End Developer with over 7 years of expertise in creating stunning,
+        intuitive, and highly responsive web applications that enhance the
+        digital experience for millions of users.
       </p>
       <br />
       <p>
-      Front End Developer with more than 6+ years of experience working on multiple projects. Adept in collaborating with cross-functional teams and delivering projects on-time .
+        I specialize in HTML, CSS, and JavaScript/TypeScript, as well as
+        frameworks like React, AngularJS, and Angular, allowing me to build
+        scalable, accessible, and high-performance applications across various
+        domains and platforms. I thrive in fast-paced Agile environments, where
+        I collaborate with cross-functional teams to solve complex challenges
+        and deliver user-centric solutions.
       </p>
       <br />
       <p>

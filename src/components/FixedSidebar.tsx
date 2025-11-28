@@ -7,7 +7,7 @@ function FixedSidebar() {
     <div className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24">
       <div className="text-center lg:text-left">
         <Image
-          src="/Sangeetha.jpeg"
+          src="/Sangeetha.jpg"
           width={150}
           height={150}
           alt="sangeetha chandrasekar"

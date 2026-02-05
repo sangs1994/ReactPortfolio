@@ -15,6 +15,9 @@ const config: Config = {
       colors: {
         accent: "#08E95E",
       },
+      screens: {
+        "2xl": "1700px",
+      },
     },
   },
   plugins: [],

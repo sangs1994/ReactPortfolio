@@ -3,7 +3,7 @@ import Image from "next/image";
 
 function FixedSidebar() {
   return (
-    <div className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:flex-1 lg:flex-col lg:justify-between lg:py-24">
+    <div className="lg:sticky lg:top-20 lg:flex lg:max-h-screen lg:max-w-xs lg:flex-col lg:justify-between lg:pt-4 lg:pb-24">
       <div className="text-center lg:text-left">
         <Image
           src="/Sangeetha.jpg"

@@ -5,18 +5,20 @@ function AboutMe() {
     <div className="mx-auto text-slate-400">
       <p>
         Hi there! I am Sangeetha Chandrasekar, a passionate and experienced
-        Front-End Developer with over 7 years of expertise in creating stunning,
-        intuitive, and highly responsive web applications that enhance the
-        digital experience for millions of users.
+        Front-End Developer/Full Stack Develper with over 8+ years of expertise
+        in creating stunning, intuitive, and highly responsive web applications
+        that enhance the digital experience for millions of users.
       </p>
       <br />
       <p>
-        I specialize in HTML, CSS, and JavaScript/TypeScript, as well as
-        frameworks like React, AngularJS, and Angular, allowing me to build
-        scalable, accessible, and high-performance applications across various
-        domains and platforms. I thrive in fast-paced Agile environments, where
-        I collaborate with cross-functional teams to solve complex challenges
-        and deliver user-centric solutions.
+        I specialize in HTML, CSS, JavaScript/TypeScript, along with frameworks
+        such as React, AngularJS and Angular, enabling me to build scalable,
+        accessible and high-performance applications across diverse domains and
+        platforms. In addition, I have experience developing backend services
+        using Java Spring Boot and working with SQL for data persistence. I
+        thrive in fast-paced Agile environments, collaborating closely with
+        cross-functional teams to solve complex problems and deliver
+        user-centric, end-to-end solutions.
       </p>
       <br />
       <p>

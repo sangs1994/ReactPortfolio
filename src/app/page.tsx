@@ -1,6 +1,7 @@
 import AboutMe from "@/components/AboutMe";
 import MySkills from "@/components/MySkills";
 import Projects from "@/components/Projects";
+import MyBlogs from "@/components/MyBlogs";
 
 export default function Home() {
   return (
@@ -25,6 +26,13 @@ export default function Home() {
       >
         <p className="text-xl mb-4">My Projects</p>
         <Projects />
+      </div>
+      <div
+        className="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24"
+        id="myblogs"
+      >
+        <p className="text-xl mb-4">My Blogs</p>
+        <MyBlogs />
       </div>
     </>
   );

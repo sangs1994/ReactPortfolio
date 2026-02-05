@@ -7,16 +7,13 @@ function MySkills() {
     "Angular JS",
     "React JS",
     "Redux",
-    "SASS",
-    "Node JS",
-    "Express",
-    "Next JS",
+    "Angular",
+    "Java Spring Boot",
     "REST API",
-    "Mysql Queries"
+    "JSON/XML",
+    "SQL",
   ];
 
-
-  
   return (
     <div className="flex gap-4 flex-wrap color-text-blue ">
       {datas.map((data, index) => (

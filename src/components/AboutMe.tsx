@@ -28,7 +28,7 @@ function AboutMe() {
       <br />
       <br />
       <Link
-        href="https://drive.google.com/file/d/1lBCCR7QvJKl_F7S5YjTloakEAxiPXGBT/view?usp=sharing"
+        href="https://drive.google.com/file/d/1wM5ZWP9-4R1BWqioNmsIZnhRbDJXN5pp/view?usp=sharing"
         target="blank"
       >
         <div className="flex gap-4 cursor-pointer">
